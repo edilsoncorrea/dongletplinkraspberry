@@ -28,11 +28,16 @@ descobrir a versão
 
 
 rodar sudo su para ficar em root
+
 procurar a pasta lib\modules 
+
 procurar as subpastas com nome 5.4.51-v*
+
 baixar um driver para cada coincidindo os nomes
 
-Quando instalei a última vez, a versão era:
+
+
+### Quando instalei a última vez, a versão era:
 8188eu-4.19.97-v7-1294.tar.gz
 
 ## Montar a url para o wget, que ficaria assim
