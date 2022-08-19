@@ -19,6 +19,8 @@ https://unix.stackexchange.com/questions/400101/how-to-get-the-wifi-working-with
 
 http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/
 
+https://repo.volumio.org/?dir=wifi-drivers/8188eu-drivers
+
 
 ## Rodar o comando na linha do Putty
 ````
