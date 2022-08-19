@@ -119,5 +119,17 @@ wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-5.10.
 tar xzf 8188eu-5.10.52-v8-1445.tar.gz
 ````
 
+````
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-5.10.52-v7-1445.tar.gz
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-5.10.52-v7l-1445.tar.gz
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-5.10.52-v8-1445.tar.gz
+
+
+tar xzf 8188eu-5.10.52-v7-1445.tar.gz
+tar xzf 8188eu-5.10.52-v7l-1445.tar.gz
+tar xzf 8188eu-5.10.52-v8-1445.tar.gz
+````
+
+
 ## Desinstalar drive
 https://github.com/mfruba/kernel/issues/1
