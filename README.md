@@ -43,6 +43,22 @@ baixar um driver para cada coincidindo os nomes
 8188eu-4.19.97-v7-1294.tar.gz
 
 ## Montar a url para o wget, que ficaria assim
+
+
+````
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-4.19.97-1294.tar.gz
+tar xzf 8188eu-4.19.97-1294.tar.gz
+
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-4.19.97-v7-1294.tar.gz
+tar xzf 8188eu-4.19.97-v7-1294.tar.gz
+
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-4.19.97-v7l-1294.tar.gz
+tar xzf 8188eu-4.19.97-v7l-1294.tar.gz
+
+wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-4.19.97-v8-1294.tar.gz
+tar xzf 8188eu-4.19.97-v8-1294.tar.gz
+````
+
 ````
 wget http://downloads.fars-robotics.net/wifi-drivers/8188eu-drivers/8188eu-4.19.97-v7-1294.tar.gz
 ````
